@@ -1,0 +1,151 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/html5.png",
+      "title": "HTML5"
+    },
+    {
+      "id": "2",
+      "src": "./img/css3.png",
+      "title": "CSS"
+    },
+    {
+      "id": "3",
+      "src": "./img/javascript.png",
+      "title": "JAVASCRIPT"
+    },
+    {
+      "id": "4",
+      "src": "./img/bootstrap.png",
+      "title": "BOOTSTRAP 5"
+    },
+    {
+      "id": "5",
+      "src": "./img/react.png",
+      "title": "React.js"
+    },
+    {
+      "id": "6",
+      "src": "./img/redux.png",
+      "title": "Redux & Context API"
+    },
+    {
+      "id": "7",
+      "src": "./img/AJAX .png",
+      "title": "Ajax"
+    },
+    {
+      "id": "8",
+      "src": "./img/json.png",
+      "title": "Json"
+    },
+    {
+      "id": "9",
+      "src": "./img/tailwind css.png",
+      "title": "Tailwind CSS"
+    },
+    {
+      "id": "10",
+      "src": "./img/Material-Ui.png",
+      "title": "Material-Ui"
+    },
+    {
+      "id": "11",
+      "src": "./img/Nextjs.png",
+      "title": "Next.js"
+    },
+    {
+      "id": "12",
+      "src": "./img/Git&Github.png",
+      "title": "Git&Github"
+    },
+    {
+      "id": "13",
+      "src": "./img/Jquery.png",
+      "title": "Jquery"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "HexaShop",
+      "link": "Review",
+      "href": "https://legendary-begonia-780f9c.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/Hotel.png",
+      "title": "Hotel",
+      "link": "Review",
+      "href": "https://hilarious-stroopwafel-22e8a1.netlify.app"
+    },
+    {
+      "id": "3",
+      "src": "./img/random-advice-generation.png",
+      "title": "random-advice-generation",
+      "link": "Review",
+      "href": "https://random-advice-generation.netlify.app/"
+    },
+    {
+      "id": "4",
+      "src": "./img/medicate.png",
+      "title": "Medicate",
+      "link": "Review",
+      "href": "https://medicate-4df2fd.netlify.app/"
+    },
+    {
+      "id": "5",
+      "src": "./img/philip-puppy.png",
+      "title": "philip-puppy",
+      "link": "Review",
+      "href": "https://philip-puppy-533666.netlify.app/"
+    },
+    {
+      "id": "6",
+      "src": "./img/currency-converter.png",
+      "title": "currency-converter",
+      "link": "Review",
+      "href": "https://currency-converter-mini.netlify.app/"
+    },
+    {
+      "id": "7",
+      "src": "./img/best-eats.png",
+      "title": "best-eats",
+      "link": "Review",
+      "href": "https://best-eats-99746c.netlify.app/"
+    },
+    {
+      "id": "8",
+      "src": "./img/to-do-app.png",
+      "title": "To-Do-App",
+      "link": "Review",
+      "href": "https://to-do-app-new.netlify.app/"
+    },
+    {
+      "id": "9",
+      "src": "./img/expense-tracker.png",
+      "title": "Expense-Tracker",
+      "link": "Review",
+      "href": "https://expense-tracker-mini.netlify.app/"
+    },
+    {
+      "id": "10",
+      "src": "./img/product-landing-page.png",
+      "title": "Product-Landing-Page",
+      "link": "Review",
+      "href": "https://product-landing-page-7.netlify.app/"
+    },
+    {
+      "id": "11",
+      "src": "./img/fitness-gym.png",
+      "title": "Fitness-Gym",
+      "link": "Review",
+      "href": "https://fitness-gym7.netlify.app/"
+    }
+  ]
+  
+  
+}
+
